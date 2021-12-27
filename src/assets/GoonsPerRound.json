@@ -1,0 +1,11 @@
+{
+    "round1": [
+        {
+            "type": "default",
+            "layers": 1,
+            "xAxis": 1,
+            "yAxis": 0,
+            "releaseTime": 2
+        }
+    ]
+}
